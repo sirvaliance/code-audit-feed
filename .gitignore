@@ -3,3 +3,8 @@ git-repos
 config.py
 parser.out
 parsetab.py
+*.swp
+build/
+lib/
+bin/
+include/
